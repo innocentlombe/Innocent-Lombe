@@ -1,0 +1,7 @@
+{
+  "name": "Innowear Fashion POS",
+  "description": "Progressive Web App point of sale, stock management, sales tracking, and order delivery system for Innowear Fashion Collection in Kasama, Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

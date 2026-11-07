@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="210" stroke="#f59e0b" stroke-width="8" stroke-dasharray="12 8" opacity="0.4"/>
+  <circle cx="256" cy="256" r="190" stroke="#f59e0b" stroke-width="4"/>
+  <!-- Elegant coat hanger motif & diamond -->
+  <path d="M256 140 C270 140 282 152 278 168 C274 184 256 195 256 210 L256 230" stroke="#fbbf24" stroke-width="12" stroke-linecap="round"/>
+  <polygon points="256,220 380,310 132,310" stroke="#fbbf24" stroke-width="14" stroke-linejoin="round" fill="none"/>
+  <line x1="120" y1="310" x2="392" y2="310" stroke="#f59e0b" stroke-width="14" stroke-linecap="round"/>
+  <!-- Monogram text -->
+  <text x="256" y="375" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="44" fill="#ffffff" letter-spacing="4">INNOWEAR</text>
+  <text x="256" y="415" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="20" fill="#f59e0b" letter-spacing="8">KASAMA</text>
+</svg>
